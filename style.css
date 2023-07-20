@@ -265,6 +265,11 @@ small {
         cursor: pointer;
     }
 
+    #MenuItems{
+        padding-left: 40px;
+        border-radius: 10px;
+        margin-right: 10px;
+    }
 
 /*--------all products page---------*/
 
@@ -312,5 +317,11 @@ select:focus {
     }
     .col-2, .col-3 {
         flex-basis: 100%;
+    }
+
+    #MenuItems{
+        padding-left: 40px;
+        border-radius: 10px;
+        margin-right: 10px;
     }
 }}
